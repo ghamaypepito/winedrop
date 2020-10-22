@@ -1,0 +1,39 @@
+.fgf_pagination{
+	cursor:pointer;
+}
+.fgf_gift_products_wrapper span.fgf_disable_links{
+	opacity: 0.5;
+	cursor:not-allowed;
+}
+.fgf_gift_products_wrapper span.fgf_disable_links a{
+	pointer-events: none;
+	cursor: default;
+	text-decoration: none;
+}
+.fgf_gift_products_table td img{
+	height: auto;
+	width:32px;
+}
+.fgf_hide{
+	display: none;
+}
+#lightcase-content {
+	border-radius:10px;
+}
+
+/* Mobile responsive */
+
+@media only screen and (max-width: 640px){
+
+	/*  single product page popup mobile responsive*/
+
+	.fgf-popup-gift-products-wrapper {
+		float:left;
+		max-height:300px;
+		overflow-y: scroll;
+		background: #fff;
+		padding: 5px;
+		width: 100%;
+		border-radius: 5px;
+	}
+}
