@@ -1,0 +1,9 @@
+Oct 22 2020 14:39:52
+{"Number":8,"Message":"unserialize(): Error at offset 7129 of 56690 bytes","File":"\/Users\/ghamaypepito\/Documents\/GitHub\/winedrop\/app\/public\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/database\/class-ai1wm-database-utility.php","Line":64}
+
+Oct 22 2020 14:41:14
+{"type":8,"message":"Undefined index: customizer","file":"\/Users\/ghamaypepito\/Documents\/GitHub\/winedrop\/app\/public\/wp-content\/plugins\/auros-core\/inc\/class-import.php","line":60}
+
+Oct 22 2020 14:41:14
+{"type":8,"message":"Undefined index: customizer","file":"\/Users\/ghamaypepito\/Documents\/GitHub\/winedrop\/app\/public\/wp-content\/plugins\/auros-core\/inc\/class-import.php","line":60}
+

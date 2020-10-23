@@ -1,0 +1,16 @@
+{
+    "winedrop.life": {
+        "siteId": "SeUczybxKyNmhttytXWdDhDZQjmhgogw",
+        "siteSecret": "ePEOeFFQBg6veN7RPPMlVN5rRKraCfFYjyLKtcM4zKPaHpPtIoZ14e0GF87JSY5l",
+        "blogId": 1,
+        "compression": true,
+        "webhookToken": "940f21123a224cce18587a23323047c5",
+        "home_url": "https:\/\/winedrop.life",
+        "admin_url": "https:\/\/winedrop.life\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isNginxHelperActive": false,
+        "pluginVersion": "1.3.17"
+    }
+}
