@@ -1,0 +1,534 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Share Button\n"
+"POT-Creation-Date: 2019-04-28 00:27+0600\n"
+"PO-Revision-Date: 2019-04-28 00:28+0600\n"
+"Last-Translator: Nur Hasan <public.nurhasan@gmail.com>\n"
+"Language-Team: PickPlugins <support@pickplugins.com>\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: templates\n"
+"X-Poedit-SearchPath-2: .\n"
+"X-Poedit-SearchPath-3: templates\n"
+"X-Poedit-SearchPath-4: themes\n"
+
+#: includes/class-functions.php:17
+msgid "Email"
+msgstr "ইমেইল"
+
+#: includes/class-functions.php:18
+msgid "Facebook"
+msgstr "ফেসবুক"
+
+#: includes/class-functions.php:19
+msgid "Twitter"
+msgstr "টুইটার"
+
+#: includes/class-functions.php:20
+msgid "Reddit"
+msgstr "রেডিট"
+
+#: includes/class-functions.php:21
+msgid "Linkedin"
+msgstr "লিঙ্কেডিন"
+
+#: includes/class-functions.php:22
+msgid "Stumbleupon"
+msgstr "স্ট্যাম্বলাপন"
+
+#: includes/class-functions.php:37
+msgid "Theme 1"
+msgstr "থীম ১"
+
+#: includes/class-functions.php:38
+msgid "Theme 2"
+msgstr "থীম ২"
+
+#: includes/class-functions.php:39
+msgid "Theme 3"
+msgstr "থীম ৩"
+
+#: includes/class-functions.php:40
+msgid "Theme 4"
+msgstr "থীম ৪"
+
+#: includes/class-functions.php:41
+msgid "Theme 5"
+msgstr "থীম ৫"
+
+#: includes/class-functions.php:42
+msgid "Theme 6"
+msgstr "থীম ৬"
+
+#: includes/class-functions.php:43
+msgid "Theme 7"
+msgstr "থীম ৭"
+
+#: includes/class-functions.php:44
+msgid "Theme 8"
+msgstr "থীম ৮"
+
+#: includes/class-functions.php:45
+msgid "Theme 9"
+msgstr "থীম ৯"
+
+#: includes/class-functions.php:46
+msgid "Theme 10"
+msgstr "থীম ১০"
+
+#: includes/class-functions.php:47
+msgid "Theme 11"
+msgstr "থীম ১১"
+
+#: includes/class-functions.php:48
+msgid "Theme 12"
+msgstr "থীম ১২"
+
+#: includes/class-functions.php:49
+msgid "Theme 13"
+msgstr "থীম ১৩"
+
+#: includes/class-functions.php:50
+msgid "Theme 14"
+msgstr "থীম ১৪"
+
+#: includes/class-functions.php:51
+msgid "Theme 15"
+msgstr "থীম ১৫"
+
+#: includes/class-functions.php:52
+msgid "Theme 16"
+msgstr "থীম ১৬"
+
+#: includes/class-functions.php:53
+msgid "Theme 17"
+msgstr "থীম১৭"
+
+#: includes/class-functions.php:54
+msgid "Theme 18"
+msgstr "থীম ১৮"
+
+#: includes/class-functions.php:55
+msgid "Theme 19"
+msgstr "থীম ১৯"
+
+#: includes/class-functions.php:56
+msgid "Theme 20"
+msgstr "থীম ২০"
+
+#: includes/class-functions.php:57
+msgid "Theme 21"
+msgstr "থীম ২১"
+
+#: includes/class-functions.php:58
+msgid "Theme 22"
+msgstr "থীম ২২"
+
+#: includes/class-functions.php:59
+msgid "Theme 23"
+msgstr "থীম ২৩"
+
+#: includes/class-functions.php:62
+msgid "Theme 26"
+msgstr "থীম ২৬"
+
+#: includes/class-functions.php:63
+msgid "Theme 27"
+msgstr "থীম ২৭"
+
+#: includes/class-functions.php:64
+msgid "Theme 28"
+msgstr "থীম ২৮"
+
+#: includes/class-functions.php:65
+msgid "Theme 29"
+msgstr "থীম ২৯"
+
+#: includes/class-functions.php:66
+msgid "Theme 30"
+msgstr "থীম ৩০"
+
+#: includes/class-functions.php:67
+msgid "Theme 31"
+msgstr "থীম ৩১"
+
+#: includes/class-functions.php:68
+msgid "Theme 32"
+msgstr "থীম ৩২"
+
+#: includes/class-functions.php:69
+msgid "Theme 33"
+msgstr "থীম ৩৩"
+
+#: includes/class-functions.php:70
+msgid "Theme 34"
+msgstr "থীম ৩৪"
+
+#: includes/class-functions.php:71
+msgid "Theme 35"
+msgstr "থীম ৩৫"
+
+#: includes/class-functions.php:72
+msgid "Theme 36"
+msgstr "থীম ৩৬"
+
+#: includes/class-functions.php:74
+msgid "Theme 38"
+msgstr "থীম ৩৮"
+
+#: includes/class-settings-tabs.php:182
+msgid "Upload"
+msgstr ""
+
+#: includes/class-settings-tabs.php:183
+msgid "Clear"
+msgstr ""
+
+#: includes/class-settings-tabs.php:315
+msgid "Add"
+msgstr ""
+
+#: includes/class-settings.php:26 social-share-button.php:23
+msgid "Social Share Button"
+msgstr "সোশাল শেয়ার বাটন"
+
+#: includes/class-settings.php:30 includes/class-settings.php:33
+#: includes/menu/migrate-settings.php:17 includes/menu/migrate.php:17
+msgid "Migrate"
+msgstr "মাইগ্রেট"
+
+#: includes/functions-settings.php:50
+#, fuzzy
+#| msgid "Total max button display"
+msgid "Max button display"
+msgstr "কতটি বাটন দেখাতে চান"
+
+#: includes/functions-settings.php:51
+#, fuzzy
+#| msgid "Display on"
+msgid "Display max button count."
+msgstr "যেখানে দেখাবেন"
+
+#: includes/functions-settings.php:62
+msgid "Display more buttons"
+msgstr "অতিরক্ত বাটন দেখান"
+
+#: includes/functions-settings.php:63
+#, fuzzy
+#| msgid "Display more buttons"
+msgid "Display or hide more buttons."
+msgstr "অতিরক্ত বাটন দেখান"
+
+#: includes/functions-settings.php:68 includes/functions-settings.php:89
+#: includes/functions-settings.php:171
+msgid "No"
+msgstr "না"
+
+#: includes/functions-settings.php:69 includes/functions-settings.php:90
+#: includes/functions-settings.php:170
+msgid "Yes"
+msgstr "হ্যা"
+
+#: includes/functions-settings.php:83
+#, fuzzy
+#| msgid "Display on"
+msgid "Display total count"
+msgstr "যেখানে দেখাবেন"
+
+#: includes/functions-settings.php:84
+#, fuzzy
+#| msgid "Display on"
+msgid "Display or hide total count."
+msgstr "যেখানে দেখাবেন"
+
+#: includes/functions-settings.php:103
+msgid "Count format"
+msgstr "গননা ফরম্যাট"
+
+#: includes/functions-settings.php:104
+msgid ""
+"Full format will display whole number(4000) and short format will display as 4k "
+"(i.e 4000)."
+msgstr ""
+
+#: includes/functions-settings.php:109
+msgid "Full"
+msgstr "পুর্ন"
+
+#: includes/functions-settings.php:110
+msgid "Short"
+msgstr "সংক্ষেপ"
+
+#: includes/functions-settings.php:124
+msgid "Site name"
+msgstr "সাইট নাম"
+
+#: includes/functions-settings.php:125
+msgid "Write site name here."
+msgstr ""
+
+#: includes/functions-settings.php:134
+msgid "Unique ID"
+msgstr ""
+
+#: includes/functions-settings.php:135
+msgid "Write site id here."
+msgstr ""
+
+#: includes/functions-settings.php:144
+msgid "Share URL"
+msgstr "শেয়ার ইউওয়ারএল"
+
+#: includes/functions-settings.php:145
+msgid "Add share url."
+msgstr ""
+
+#: includes/functions-settings.php:154
+#, fuzzy
+#| msgid "Site name"
+msgid "Site icon"
+msgstr "সাইট নাম"
+
+#: includes/functions-settings.php:155
+msgid "Add site icon."
+msgstr ""
+
+#: includes/functions-settings.php:164
+msgid "Is visible?"
+msgstr ""
+
+#: includes/functions-settings.php:165
+msgid "Check if you want to visible this media."
+msgstr ""
+
+#: includes/functions-settings.php:187
+#, fuzzy
+#| msgid "Sharing sites"
+msgid "Sharing Media"
+msgstr "শেয়ার করার সাইট গুলি"
+
+#: includes/functions-settings.php:188
+msgid "Add or customize social media sites."
+msgstr ""
+
+#: includes/functions-settings.php:245
+msgid "Choose themes"
+msgstr ""
+
+#: includes/functions-settings.php:246
+msgid "Choose share button theme"
+msgstr ""
+
+#: includes/functions-settings.php:354
+msgid "Display on?"
+msgstr "যেখানে দেখাবেন?"
+
+#: includes/functions-settings.php:355
+msgid "Choose where you want to display share buttons"
+msgstr ""
+
+#: includes/functions-settings.php:360 includes/functions-settings.php:374
+#: includes/functions-settings.php:398
+msgid "None"
+msgstr "কিছু না"
+
+#: includes/functions-settings.php:361
+msgid "Content"
+msgstr "কনটেন্ট"
+
+#: includes/functions-settings.php:368
+msgid "Position?"
+msgstr "পজিশন?"
+
+#: includes/functions-settings.php:369
+msgid "Choose position where you want to display share buttons"
+msgstr ""
+
+#: includes/functions-settings.php:375
+msgid "Before"
+msgstr "আগে"
+
+#: includes/functions-settings.php:376
+msgid "After"
+msgstr "পরে"
+
+#: includes/functions-settings.php:382
+msgid "Post types?"
+msgstr "পোস্ট টাইপ?"
+
+#: includes/functions-settings.php:383
+msgid "Choose Post types where you want to display share buttons"
+msgstr ""
+
+#: includes/functions-settings.php:392
+msgid "Page type?"
+msgstr "পেইজ টাইপ?"
+
+#: includes/functions-settings.php:393
+msgid "Choose page type where you want to display share buttons"
+msgstr ""
+
+#: includes/functions-settings.php:399
+msgid "Single"
+msgstr "সিঙ্গেল পেইজ"
+
+#: includes/functions-settings.php:400
+msgid "Archive"
+msgstr "আর্কাইভ পেইজ"
+
+#: includes/functions-settings.php:401
+msgid "Home"
+msgstr "হোম পেইজ"
+
+#: includes/functions-settings.php:402
+msgid "Blog"
+msgstr ""
+
+#: includes/functions-settings.php:421
+#, fuzzy
+#| msgid "Display on"
+msgid "Display conditions"
+msgstr "যেখানে দেখাবেন"
+
+#: includes/functions-settings.php:422
+msgid ""
+"Put your display condition where you want to display share button dynamically."
+msgstr ""
+
+#: includes/functions-settings.php:508
+#, fuzzy
+#| msgid "Shortcode"
+msgid "Get shortcode"
+msgstr "শর্টকোড"
+
+#: includes/functions-settings.php:559
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/functions-settings.php:560
+msgid "Add your own CSS."
+msgstr ""
+
+#: includes/functions-settings.php:621
+msgid "Buy Premium"
+msgstr ""
+
+#: includes/functions-settings.php:651
+#, fuzzy
+#| msgid "Help & Support"
+msgid "Get support"
+msgstr "সাহায্য ও যোগাযোগ"
+
+#: includes/menu/settings.php:44
+msgid "<i class=\"fas fa-laptop-code\"></i> Options"
+msgstr ""
+
+#: includes/menu/settings.php:51
+msgid "<i class=\"fas fa-palette\"></i> Style"
+msgstr ""
+
+#: includes/menu/settings.php:58
+msgid "<i class=\"fas fa-qrcode\"></i> Display"
+msgstr ""
+
+#: includes/menu/settings.php:72
+msgid "<i class=\"fas fa-code\"></i> Custom Scripts"
+msgstr ""
+
+#: includes/menu/settings.php:79
+msgid "<i class=\"far fa-question-circle\"></i> Help & Support"
+msgstr ""
+
+#: includes/menu/settings.php:103
+#, fuzzy, php-format
+#| msgid "Settings"
+msgid "%s Settings"
+msgstr "সেটিং"
+
+#: includes/menu/settings.php:150
+msgid "Save Changes"
+msgstr "পরিবর্তন সংরক্ষন করুন"
+
+#~ msgid "Google plus"
+#~ msgstr "গুগল প্লাস"
+
+#~ msgid "Changes Saved."
+#~ msgstr "পরিবর্তন গুলো সংরক্ষন হয়েছে"
+
+#~ msgid "Options"
+#~ msgstr "অপশন"
+
+#~ msgid "Style"
+#~ msgstr "স্টাইল"
+
+#~ msgid "Display"
+#~ msgstr "দেখান"
+
+#~ msgid "ID"
+#~ msgstr "আইডি"
+
+#, fuzzy
+#~| msgid "Visiblity"
+#~ msgid "Visibility"
+#~ msgstr "ভিসিবিলিটি"
+
+#~ msgid "Remove"
+#~ msgstr "মুছে ফেলুন"
+
+#~ msgid "Add more"
+#~ msgstr "যোগ করুন"
+
+#~ msgid "Reset"
+#~ msgstr "রিসেট"
+
+#~ msgid "Themes"
+#~ msgstr "থিম"
+
+#~ msgid "Display on these automatically"
+#~ msgstr "সংক্রিয় ভাবে এইগুলোতে দেখান"
+
+#~ msgid "Plugin info ?"
+#~ msgstr "প্লাগিং তথ্য?"
+
+#~ msgid ""
+#~ "You are using %s version %s of %s, To get more feature you could try our "
+#~ "premium version."
+#~ msgstr ""
+#~ "আপনি ব্যবহার করছেন %s ভার্সন  %s এর %s, আরো ফিচার পেতে প্রিমিয়াম ভার্সন দেখতে "
+#~ "পারেন।"
+
+#~ msgid "Thanks for using <strong> premium version %s of %s"
+#~ msgstr "প্রমিয়াম ভার্সন %s এর %s ব্যবহার করার জন্যে ধন্যবাদ"
+
+#~ msgid "Need Help ?"
+#~ msgstr "সাহায্য দরকার ?"
+
+#~ msgid "please read documentation here <a href=\"%s\">%s</a>"
+#~ msgstr "অনুগ্রহ করে ডকুমেন্টেশোন পুড়ুন <a href=\"%s\">%s</a>"
+
+#~ msgid ""
+#~ "We are working hard to build some awesome plugins for you and spend thousand "
+#~ "hour for plugins. we wish your three(3) minute by submitting five star "
+#~ "reviews at wordpress.org. if you have any issue please submit at forum."
+#~ msgstr ""
+#~ "প্লাগিন তৈরীর পিছনে হাজার ঘন্টা ব্যায় করে থাকি, আপনাদের কাছ থেকে ৩ মিনিট প্রত্যাশা "
+#~ "করি আপনাদের পাচ তারা রিভিউ এবং মন্তব্যের জন্যে। দয়া করে wordpress.org এর পাচ "
+#~ "তারা দিন, কোন সমস্যা থাকলে যোগাযোগ করুন"
+
+#~ msgid ""
+#~ "Feel free to contact with any issue for this plugin, Ask any question via "
+#~ "forum %s "
+#~ msgstr "যেকোন সাহায্যের জন্যে নির্দ্বিধায় যোগাযোগ করুন, প্রশ্ন করুন আমাদের ফোরামে %s "
+
+#~ msgid "Video Tutorial"
+#~ msgstr "ভিডিও টিউটোরিয়াল"
+
+#~ msgid "Please watch this video tutorial."
+#~ msgstr "দয়া করে ভিডিও টিউটোরিয়াল দেখুন"
